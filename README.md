@@ -1,2 +1,2 @@
-# honeypot
-Deception that attacks back -- sort off--
+# Deception that fights back
+Honeypot that got tired of defending now it fights back.
