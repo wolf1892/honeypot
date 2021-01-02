@@ -11,7 +11,7 @@ Cron jobs are used to run active scripts on the raspberry pi, since the honeypot
 
 
 # What's missing?
--Rev_DOS script is removed.
+-Rev_DOS script is removed. <br />
 -Exploits are removed.
 
 # FYI
